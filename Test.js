@@ -12,3 +12,4 @@ Test Commit1.
 Same line change test
 Same Line change Fork
 Same line from Origin Same line from fork
+Fork and merge test
